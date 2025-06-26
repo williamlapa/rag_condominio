@@ -1,0 +1,139 @@
+CONDOMÍNIO DO EDIFÍCIO SOLAR TRINDADE
+Rua Conselheiro Nabuco, 151 - Casa Amara, RociiPE
+ONPJ: 00286 726/0001-32
+
+ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA REALIZADA EM 04/11/2024
+
+Ao quarto dia do mês de novembro de dois mile vinte e quatro, em 2º convocação, isto é, às 20hs, no
+salão de festas do Condomínio, reuniram-se os condôminos das unidades: P/P 0101, 0201, 0202, 0301,
+0302, 0401, P/P 0501, 0502, 0601, 0602, 0701, P/P 0801, 0902, 1002, 1102, 1201, 1302, P/P 1402,
+1501, P/P 1602, atendendo 20 Edital de Convocação enviado a todas as unidades por e-mail, para
+deliberarem sobre a seguinte ordem do dia: ITEM 1.- Aprovar atualizações e alterações do Regimento
+Interno, Para presidir a mesa foi aclamado o Sr. Carlos Magno Carvalho de Mendonça, unidade 1102, e
+para secretariar a Sra, Raquel Schettil, representante da Administradora Controlar. Após leitura da
+convocação pelo presidente foi inilada a reunião através de seu ITEM 1 Os presentes concluíram a
+discussão de todos os artigos da minuta do Regimento Interno, porém ficaram pendentes alguns pontos.
+que foram destacados nas sessões anteriores, Por esse motivo, não foi possível encaminhar a votação à
+aprovação ou não da atualização do Regimento Interno. Fica decidido que será agendada nova
+assembleia para dirimir as pendências e votar o documento final. Nada mais a tratar, deu-se por
+encerrada a assembleia, sendo esta assinada pelo presidente, e, por mim, secretária. Recife, 04 de
+novembro de 2024.
+
+ 
+
+ 
+
+ 
+
+gola: papemecetire ess
+
+EE O
+nn Ds a
+Caros Magno Carvalho de Mendonça aquel Set
+
+Presidente Secretária
+
+ 
+
+
+DER Relatório de conformidade
+
+ 
+
+Nome: Validador de assinaturas eletrônicas
+
+ 
+
+Data de Validação: 14/11/2024 13:58:17 BRT
+
+Versão do software(Vorificador de Conformidade): 2.17
+
+ 
+
+Versão do software(Validador de Documentos); 3.0.01c12
+Fonte de verificação: Ofine
+
+Nome do arquivo: ATA AGE 04.11.2024, SOLAR, TRINDADE. assinado por
+Resumo da SHA256 do arquivo:
+do6167550C37591087137305C92c1IJ679C7BTOA53791400402454BBIdfcB5o
+Tipo do arquivo: PDF
+
+Quantidade de assinaturas: 1
+
+Quantidade de assinaturas ancoradas: 1
+
+CN=CARLOS MAGNO CARVALHO DE MENDONCA
+
+ 
+
+/ARLOS MAGNO CARVALHO DE MENDONCA
+
+ 
+
+CPF: cessa star
+
+
+Tipo de assinatura: Destacada
+Status de assinatura: Aprovado
+
+Caminho de certificação: Valid
+
+Estrutura: Em conformidade com o padrão
+Cifra assimétrica: Aprovada
+
+Resumo criptográfico: Correto
+
+Data da assinatura: 14/11/2024 09:22:06 BRT
+Atributos obrigatórios: Aprovados
+
+Mensagem de alerta: Nenhuma mensagem de alerta
+
+CN=CARLOS MAGNO CARVALHO DE MENDONCA:
+
+ 
+
+Buscado: Offine
+Assinatura: true
+
+Emissor: CN=AC Final do Governo Federal do Brasil v1, OU=AC Intermediaria do
+Governo Federal do Brasi vt, O=Gov-Br, C=BR
+
+Data de omissão: 25/09/2024 12:52:20 BRT
+Aprovado até: 25/09/2025 12:52:20 BRT
+Expirado (LCR): false
+
+
+CN=AG Final do Governo:Federal do Brasil vt, OU=AG
+la eiatete E tuto Ne fo jLe ro otite Made =] eo Es ige SA O)
+
+  
+
+Buscado: Offine
+
+ 
+
+Certificadora Raiz do Governo Federal do Brasil v1, 0=Gov-Br, C=BR
+Data de emissão: 17/06/2020 17:50:27 BRT
+Aprovado até: 09/08/2033 09:00:47 BRT
+Expirado (LCR); false
+
+ibutos usados
+
+SoneiecefRo
+Nome do atributo: IdMessageDigest
+Corrotude: Valid
+
+ 
+
+Nomo do atributo: IdContentType
+
+Corretudo: Valid
+
+  
+
+
+Nome do atributo: IdSigningTime
+
+Corretudo: Valid
+
+

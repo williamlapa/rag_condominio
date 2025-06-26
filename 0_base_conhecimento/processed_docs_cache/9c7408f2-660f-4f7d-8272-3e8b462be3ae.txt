@@ -1,0 +1,146 @@
+Mit EDIFÍCIO R
+Rua Conselheio Nabuco, 151 - Casa Amarela, Recie'PE
+CNP: 00.286.726/0001-32.
+
+Ao décimo dia do mês de setembro de dois mil e vinte e quatro, em 2º convocação, isto é, às 20hs, no
+Salão de festas do Condominio, reuniram-se os condôminos das unidades: P/P 0103, 0203, 0202, 0304,
+0302, P/P SO, 0502, P/P 0601, 0602, P/P 0701, 0801, 1001, 1102, P/P 1501, 1602, atendendo ao Edital
+de Convocação enviado a todas as unidades por e-mail, para deliberarem sobre a seguinte ordem do
+dia: ITEM 1 - Aprovar atualizações e alterações do Regimento Interno, Para presidir à mesa fot
+aclamado & Sr. Carlos Magno Carvalho de Mendonça, unidade 1102, e para Secretariar a Sra. Raquel
+Schettin, representante da Administradora Controlar. Após leitura ds convocação pelo presidente, sra
+Ana Júlia, síndica, relembra que o regimento interno foi enviado para apreciação de todos em maio e
+reenviado após as sugestões em julho. Sra, Vlen, subsíndica do Condomínio, pede a palavra e solicita
+que seja consignado em ata que se sentiu moralmente atingida enquanto pessoa e subsíndica do edificio
+por uma fala da sra. Luciana Mendonça no grupo de mensagens do Condomínio nos seguintes termos:
+“sabe o que parece? Que a atual administração tem interesse na ausência para aprovar tudo o que quer,
+do jeito que quer. Sinceramente. Nunca v isso”. Em seguida foi iniciada a reunião através de seu ITEM
+=Sra. Ana Júlia relembra que ficou pendente a definição do valor de multa. Sr. Carlos Magno inicia pela.
+Teitura do item 1) do artigo 17 que rege 2 aplicação da multa. Porém, foi questionado quais são as
+Infrações cometidas que gerarão essa multa e após debate foi retomada a leitura do regimento desde o
+Início. Foram lidos e discutídos os artigos 1, 2, 3 e 4 com alguns itens a serem rediscutidos (artigo 3, item
+1) e parágrafo, artigo 4, Itens ), m) 1), ) e parágrafos), devido ao adiantado da hora fica aprovado de
+forma unânime que esta sessão permanecerá como permanente para que seja convocada nova
+assembleia para conclusão deste tema. Sra. Glória, representante da unidade 0202, solicita que seja
+consignado em ATA que os condôminos leiam o regimento interno e compareçam a próxima sessão com
+as dúvidas e sugestões para que a assembleia transcorra de forma mais rápida e produtiva. Nada mais a
+tiatar, deu-se por encerrada a assembleia, sendo esta assinada pelo presidente, e, por mim, secretária
+Recife, 10 de setembro de 2024.
+
+ 
+
+ 
+
+     
+
+Carlos Magno Carvalho de Mendonça Raquel Schettint
+Presidente Secretária.
+
+
+Relatório de conformidade
+
+ 
+
+Nome; Validador de assinaturas elerônicas
+Data do Validação: 25/09/2024 15:00:52 BRT
+
+Versão do software(Verficador de Conformidade): 2.17
+
+Versão do software(Validador de Documentos); 3.0.0rc12
+
+Fonte de verificação: Offine
+
+Nome do arquivo: ATA AGE. 10.09.2024. SOLAR. TRINDADE - Modificada, assinado pdf
+Resumo da SHAZS6 do arquivo:
+
+2h55b37584H GH tc7 dbcase9437AlsdbBOddesdS5aO8rfb17626a57014677!
+
+Tipo do arquivo: PDF
+
+Quantidade de assinaturas: 1
+
+Quantidade do assinaturas ancoradas: 1
+
+(EN=CARLOS MAGNO CARVALHO DE MENDONCA
+
+ 
+
+Assinante: CNECARLOS MAGNO CARVALHO DE MENDONCA
+
+ 
+
+CPF: cessa star
+
+
+Tipo de assinatura: Destacada
+
+Status de assinatura: Aprovado
+
+Caminho de cortificação: Valid
+Estrutura: Em conformidade com o padrão
+Cifra assimétrica: Aprovada
+
+Resumo criptográfico: Correto
+
+Data da assinatura: 25/09/2024 12:52:20 BRT
+
+ 
+
+Atributos obrigatórios: Aprovados
+
+Mensagem do alerta: Nenhuma mensagem de alerta
+
+ 
+
+Buscado: Offline
+
+Assinatura: true
+
+Emissor: CN=AC Final do Governo Federal do Brasil v1, OU=AC Intermediaria do
+Governo Federal do Brasil v1, 0=Gov-Br, CBR
+
+Data de emissão: 25/09/2024 12:52:20 BRT
+Aprovado até: 25/09/2025 12:52:20 BRT
+Expirado (LCR): false
+
+
+CN=AC Final do Governo Federal do Brasil vt, OU=AC
+Ttco et (late Reto crer o plo ele] elo NAO
+C=BR
+
+  
+
+Buscado: Offine
+Assinatura: true
+
+Emissor: CN=AC Intermediaria do Governo Federal do Brasil vt, OU=Autoridade
+Certficadora Raiz do Governo Federal do Brasil v1, 0=Gov-Br, C=BR
+
+Data de emissão: 17/06/2020 17:50:27 BRT
+
+Aprovado até: 09/06/2033 09:00:47 BRT
+
+ 
+
+Expirado (LCR): false
+
+Atributos usados
+
+ 
+
+Nome do atributo: IdMessageDigest
+Corrotudo: Valid
+Nome do atributo: IdContentType
+
+Corretude: Valid
+
+ 
+
+
+Nome do atributo: IdSigningTimo
+
+ 
+
+Corretudo: Valid
+
+

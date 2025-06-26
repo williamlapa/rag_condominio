@@ -1,0 +1,166 @@
+IDOMÍNIO DO EDIFÍCIO SOLAR TRIND/
+
+Rua Conseliro Nabuco, 151 - Casa Amareia, ReciPE
+ONPU:00.268.7261001-32
+DA. IA
+
+Ao vigésimo sétimo dia do mês de novembro de dols mile vinte e quatro, em 22 convocação, isto é, às
+19h30, no salão de festas do Condomínio, reuniram-se os condôminos das unidades: P/P 0101, 0201,
+9202, 0301, 0302, P/P 0501, 0502, 0602, 1102, atendendo ao Edital de Convocação enviado à todas as
+unidades por e-mail, para deliberarem sobre a seguinte ordem do dia: ITEM 1 - Aprovar atualizações e
+
+Para presidir a mesa foi aclamado o Sr. Carlos Magno Carvalho de
+Mendonça, unidade 1102 e, para secretaria, a Sra. Raquel Schettii, representante da Administradora
+Controlar. Após leitura da convocação pelo presidente, foi iniciada à reunião através de seu ITEM 1 —
+$ra. Gloria, representante das unidades 0101 e 0501, pede que seja registrado em ATA que os
+funcionários do condomínio que executam serviços particulares para moradores tenham reforçada à
+informação, já repassada em treinamento de ética e conduta, que precisa registar o ponto
+corretamente ao término da jornacia E registrar sua entrada no Condomínio no controle de acesso
+quando for para qualquer apartamento. A Sra. Glória também relembra que, durante a reunião que
+estabeleceu novo valor de cobrança para o Salão de Festas e instituiu cobrança para a área Gourmet, no
+êmbito das discussões para alteração do Regimento Interno, ficou definido que, 6 (seis) meses após o
+início da cobrança dos novos valores, estes serão reavaliados pela gestão. Os presentes concluíram a
+discussão de todos os artigos da minuta do Regimento Interno e, posto em votação, foi aprovada pela
+unanimidade dos presentes a alteração do Regimento Interno. O mesmo seguirá para revisão e
+adequação ao formato jurídico para posterior publicação. Nada mais a tratar, deu-se por encerrada à
+assembleia, sendo esta assinada pelo presidente, e, por mim, secretária. Recife, 27 de novembro de
+2024,
+
+ 
+
+   
+
+Carlos Magno Carvalho de Mendonça
+Presidente Secretária
+
+
+Relatório de conformidade
+
+ 
+
+Nome: Validador de assinaturas eletrônicas.
+
+Data do Validação: 20/01/2025 14:49:43 BRT
+
+ 
+
+Versão do software(Verificador de Conformidade): 2.17.3
+Versão do software(Validador de Documentos): 3.0.0
+Fonte de verificação: Offine
+
+Nome do arquivo: ATA AGE 20241127 SOLAR TRINDADE final «
+
+ 
+
+sinado (1) pdf
+Resumo da SHA256 do arquivo:
+b238ac77AGObS0801917017c0b242200029cadt4a129748abaZes42557a43702
+
+Tipo do arquivo: PDF
+
+ 
+
+Quantidade de assinaturas:
+
+ 
+
+Quar
+
+ 
+
+IS CARLOS MAGNO CARVALHO DE MENDONCA.
+
+ 
+
+ 
+
+Assinanto: CN=CARLOS MAGNO CARVALHO DE MENDONCA
+
+CPF: cessa star
+
+
+Tipo de assinatura: Destacada
+
+ 
+
+natura: Aprovado
+Caminho de certificação: Valid
+
+Estrutu
+
+ 
+
+: Em conformidade com o padrão
+Cifra assimétrica: Aprovada
+
+Resumo criptográfico: true
+
+ 
+
+20/01/2025 14:39:37 BRT
+Atributos obrigatórios: Aprovados
+
+Mensagem de alerta: Nenhum erro encontrado
+
+CNSCARLOS MAGNO CARVALHO DE MENDONCA
+
+ 
+
+Buscado: Offline
+Assinatura: true
+
+Emissor; CN=AC Final do Governo Federal do Brasil v1, OU=AC Intermediaria do
+Governo Federal do Brasil vi, 0=Gov-Br,
+
+   
+
+Data de emissão: 25/09/2024 12:52:20 BRT
+
+Aprovado até: 25/09/2025 12:52:20 BRT
+
+
+Expirado (LCR): faiso
+
+CN=AC Final do Governo Federal do Brasil V1, OU=AC
+Intermediaria do Governo Federal do Brasil v1, O=Gor
+
+C=BR
+
+ 
+
+Buscado: Offline
+Assinatura: true
+
+Emissor: CN=AC Intermediaria do Governo Federal do Brasil v1, OU=Autorida
+Certificadora Raiz do Governo Federal do Brasi v1, 0=Gov-Br,
+
+  
+
+Data de emissão: 17/06/2020 17:50:27 BRT
+Aprovado até: 09/06/2033 09:00:47 BRT
+Expirado (LCR): false
+
+Atributos usados
+
+ 
+
+Nome do atributo: IdMessagoDigest
+
+Corretudo: Val
+
+ 
+
+Nomo do atributo: IdContentType
+
+Corretude: Valid
+
+ 
+
+ 
+
+
+Nome do atributo: IdSigningTime
+
+Corretude: Valid
+
+
