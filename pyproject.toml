@@ -10,6 +10,7 @@ dependencies = [
     "autogen-ext[grpc,mcp,ollama,openai]>=0.4.9.2",
     "bs4>=0.0.2",
     "crewai>=0.118.0",
+    "docling>=2.39.0",
     "docx2txt>=0.9",
     "gradio>=5.22.0",
     "httpx>=0.28.1",

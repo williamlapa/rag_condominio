@@ -1,7 +1,5 @@
 # RAG para Documentos de Condomínio - Versão Otimizada
 
-# RAG para Documentos de Condomínio - Versão Otimizada
-
 import os
 import glob
 from dotenv import load_dotenv
